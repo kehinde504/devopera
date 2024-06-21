@@ -57,7 +57,7 @@ A huge number of smartphone users do not download their apps and never update th
 
 As you can imagine, these workarounds for downloading apps from the app store create all sorts of problems for developers — from app distribution, to getting the most recent, bug-free versions of apps in the hands of users.
 
-With PWAs giving web apps a place in the user’s home screen, without the download overhead of native apps, this becomes more exciting; developers in Nigeria can now always give a great and up-to-date experience to their users. Also, they have the ability to re-engage with their users via push notifications, and improve conversions.
+With PWAs giving web apps a place in the user’s home screen, without the download overhead of native apps, this becomes more exciting; [developers in Nigeria](http://plywah.com/hub/) can now always give a great and up-to-date experience to their users. Also, they have the ability to re-engage with their users via push notifications, and improve conversions.
 
 **Eugene, is it similar in Kenya?**
 
